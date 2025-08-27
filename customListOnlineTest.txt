@@ -5,3 +5,4 @@ QuestHelper:https://github.com/example/QuestHelper
 Auctionator:https://github.com/example/Auctionator
 Details:https://github.com/example/Details
 Bagnon:https://github.com/example/Bagnon
+TestAddon:https://github.com/example/TestAddon
